@@ -1,6 +1,8 @@
-docker.io/calico/cni:v3.25.0                 calico_cni:v3.25.0
-docker.io/calico/node:v3.25.0                calico_node:v3.25.0
-docker.io/calico/kube-controllers:v3.25.0    calico_kube-controllers:v3.25.0
+openjdk:8u342-jdk         openjdk:8u342-jdk
+
+#docker.io/calico/cni:v3.25.0                 calico_cni:v3.25.0
+#docker.io/calico/node:v3.25.0                calico_node:v3.25.0
+#docker.io/calico/kube-controllers:v3.25.0    calico_kube-controllers:v3.25.0
 
 
 #peerjs/peerjs-server:1.1.0-rc.2              peerjs_server:1.1.0-rc.2
