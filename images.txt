@@ -1,4 +1,7 @@
-openjdk:8u342-jdk         openjdk:8u342-jdk
+mysql:5.7.44-oracle        mysql:5.7.44-oracle
+mysql:5.7.44-oraclelinux7  mysql:5.7.44-oraclelinux7
+mysql:5.7.44               mysql:5.7.44
+#openjdk:8u342-jdk         openjdk:8u342-jdk
 
 #docker.io/calico/cni:v3.25.0                 calico_cni:v3.25.0
 #docker.io/calico/node:v3.25.0                calico_node:v3.25.0
