@@ -1,6 +1,7 @@
-mysql:5.7.44-oracle        mysql:5.7.44-oracle
-mysql:5.7.44-oraclelinux7  mysql:5.7.44-oraclelinux7
-mysql:5.7.44               mysql:5.7.44
+shadowsocks/shadowsocks-libev:v3.3.5  shadowsocks-libev:v3.3.5
+#mysql:5.7.44-oracle        mysql:5.7.44-oracle
+#mysql:5.7.44-oraclelinux7  mysql:5.7.44-oraclelinux7
+#mysql:5.7.44               mysql:5.7.44
 #openjdk:8u342-jdk         openjdk:8u342-jdk
 
 #docker.io/calico/cni:v3.25.0                 calico_cni:v3.25.0
