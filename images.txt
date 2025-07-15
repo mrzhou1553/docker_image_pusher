@@ -1,4 +1,5 @@
-tdengine/tdengine:3.3.6.9  tdengine:3.3.6.9
+rustfs/rustfs:latest       rustfs:latest
+#tdengine/tdengine:3.3.6.9  tdengine:3.3.6.9
 #openspeedtest/latest:v2.0.6  openspeedtest:v2.0.6
 #clickhouse:25.2.2.39    clickhouse:25.2.2.39
 #node:16.14.0-buster     node:16.14.0-buster
